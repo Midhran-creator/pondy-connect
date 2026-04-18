@@ -13,4 +13,3 @@ Pondy Connect is a transparency dashboard designed for the residents of Puducher
 - **Language:** Python 
 - **Framework:** Streamlit
 - **Backend:** Supabase (PostgreSQL)
-- 
