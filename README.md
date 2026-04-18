@@ -14,3 +14,4 @@ Pondy Connect is a transparency dashboard designed for the residents of Puducher
 - **Framework:** Streamlit
 - **Backend:** Supabase (PostgreSQL)
 - pip install streamlit supabase pandas.
+- requirements.txt
